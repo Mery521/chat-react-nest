@@ -1,21 +1,21 @@
-For the backend side run the following commands:
+## For the backend side run the following commands:
 
-## Installation
+### Installation
 
 ```bash
 $ npm install
 ```
 
-## Running the app
+### Running the app
 
 ```bash
 # development
 $ npm run start
+```
 
+## For the frontend side run the following commands:
 
-For the frontend side run the following commands:
-
-## Installation
+### Installation
 
 ```bash
 $ npm install
@@ -26,3 +26,4 @@ $ npm install
 ```bash
 # development
 $ npm start
+```
